@@ -1,0 +1,9 @@
+html, body, .sev {
+  height: 100%;
+}
+.sev {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 210px;
+}
